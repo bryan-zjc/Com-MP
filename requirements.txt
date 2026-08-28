@@ -1,0 +1,8 @@
+numpy
+pandas
+torch
+traci
+sumolib
+libsumo
+beautifulsoup4
+wandb
