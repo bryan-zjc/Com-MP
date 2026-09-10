@@ -32,11 +32,6 @@ com_mp/checkpoints/5x5/grid_run_01/
   best.pt
 ```
 
-Use a new experiment name for each fresh training run: histories are appended
-and model files can be overwritten. Neither directory is shipped in this repository.
-Resume only compatible checkpoints, using `--resume PATH`. A 30-feature
-checkpoint is not compatible with this 18-feature implementation.
-
 The first 150 seconds of each simulation are a fixed-time warm-start period and are excluded from training. The current implementation intentionally uses the same SUMO seed in every training episode for a fixed-demand training setting. This behavior can be changed in `agent/train_hybrid_mappo_v6.py` if randomized episode demands are required.
 
 ## Evaluate
