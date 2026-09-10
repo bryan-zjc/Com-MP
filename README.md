@@ -1,5 +1,3 @@
-<img width="4815" height="1978" alt="framework" src="https://github.com/user-attachments/assets/68b801ef-e255-41f5-845f-08612ccc8413" /><img width="4815" height="1978" alt="framework" src="https://github.com/user-attachments/assets/93f14936-c1ed-4111-b89d-c7ccb8a3a412" /># Com-MP: Heterogeneity-Aware Composite Max-Pressure Control for Urban Road Networks
-
 This is the demo code for our paper: **Com-MP: Heterogeneity-Aware Composite Max-Pressure Control for Urban Road Networks**.
 
 ## Abstract
