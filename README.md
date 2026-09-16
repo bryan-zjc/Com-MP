@@ -1,9 +1,6 @@
 # Com-MP: Composite Max-Pressure Traffic Signal Control
 
-This repository contains a compact, reproducible implementation of Com-MP for
-multi-intersection traffic signal control. Com-MP combines queue-based
-max-pressure (Q-MP) and connected-vehicle max-pressure (CV-MP) using a
-state-dependent composition coefficient selected by a shared MAPPO policy.
+This is the demo code of our paper: **Com-MP: Heterogeneity-Aware Composite Max-Pressure Control for Urban Road Networks**
 
 The public example includes only the synthetic 5x5 road network and its demand
 file. No trained checkpoints, experiment results, Qinzhou data, or personal
