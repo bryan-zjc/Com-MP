@@ -26,7 +26,6 @@ Com-MP-GitHub/
 |   |-- env_hybrid_mappo_v6.py
 |   |-- hybrid_mappo_agent.py
 |   `-- train_hybrid_mappo_v6.py
-|-- tripinfo_statistics.py
 |-- requirements.txt
 `-- README.md
 ```
