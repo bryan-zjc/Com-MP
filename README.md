@@ -80,5 +80,4 @@ demand data they add can be redistributed.
 
 Due to data-sensitivity considerations, detailed information and files for the
 Qinzhou road network are not publicly released at this time. Researchers with
-a legitimate need for access are welcome to contact the authors for further
-information.
+a need for access are welcome to contact the authors for further information.
