@@ -1,8 +1,0 @@
-numpy>=1.24,<2
-pandas
-torch
-traci
-sumolib
-libsumo
-beautifulsoup4
-wandb
