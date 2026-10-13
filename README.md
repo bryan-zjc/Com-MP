@@ -10,18 +10,14 @@ Max-pressure (MP) control provides a decentralized and scalable framework for ne
 
 _Fig.1 Framework of the proposed Com-MP controller. The upper layer adapts the composition of normalized constituent phase pressures, while the lower layer retains decentralized MP phase selection._
 
-
-# Com-MP: Qinzhou core code
-
-This repository is the Qinzhou-only core implementation derived from the v9 codebase. It contains:
+## Structure
+This repository is the Qinzhou core implementation. It contains:
 
 - Q-MP controller: `agent/main_MP.py`
 - CV-MP controller: `agent/main_CVMP.py`
 - Com-MP training: `agent/train_com_mp.py`
 - Shared Com-MP/MAPPO and SUMO environment modules
 - Qinzhou network, topology, and training demand files
-
-Checkpoints, trained models, evaluation scenarios, experiment launchers, plotting scripts, analysis code, and generated results are excluded.
 
 ## Requirements
 
