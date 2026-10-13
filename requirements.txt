@@ -1,0 +1,5 @@
+numpy==1.26.4
+torch>=2.1
+traci>=1.18
+sumolib>=1.18
+wandb>=0.16
